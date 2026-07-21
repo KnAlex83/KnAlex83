@@ -15,12 +15,12 @@
 
 ### 🎯 About me
 
-Mechanical engineer turned AI systems architect. I build AI products that run **in production** — on real data, with real users giving feedback every day, not demos that die in a notebook.
+Mechanical engineer turned AI systems architect. I build AI products that run **in production**: on real data, with real users giving feedback every day. Not demos that die in a notebook.
 
-My sweet spot: taking an idea from concept to a shipped system — data architecture, LLM pipelines, voice agents, CRM integrations and the frontend on top. I own the whole path: build it, ship it, measure it.
+My sweet spot is taking an idea from concept to a shipped system. Data architecture, LLM pipelines, voice agents, CRM integrations and the frontend on top. I own the whole path: build it, ship it, measure it.
 
-- 🏗️ **Co-Founder & CTO @ Grovia Digital** — AI products & AI transformation for SMEs across DACH & MENA
-- 🍳 **Co-Founder & CTO @ Gusto AI** — the Taste Intelligence Platform; live on iOS & Android
+- 🏗️ **Co-Founder & CTO @ Grovia Digital**: AI products & AI transformation for SMEs across DACH & MENA
+- 🍳 **Co-Founder & CTO @ Gusto AI**: the Taste Intelligence Platform, live on iOS & Android
 - 🎙️ **Shipping:** compliance-first AI voice agents (n8n · Twilio · ElevenLabs · ATS integration)
 - 💬 **Talk to me about:** LLM apps in production, n8n orchestration, voice agents, CRM/ATS integrations, EU AI Act & GDPR-compliant automation
 - 📍 Dubai 🇦🇪 · working across 🇩🇪 DACH and 🇬🇧 UK/MENA
@@ -32,34 +32,34 @@ My sweet spot: taking an idea from concept to a shipped system — data architec
 
 | Project | What it is | Status |
 |---|---|---|
-| **AI Match** | AI candidate matching on top of recruitment CRMs — ranks an agency's entire candidate pool against every open job in seconds (multi-factor scoring, geo-distance, LLM job-title normalization) | 🟢 Live in production |
+| **AI Match** | AI candidate matching on top of recruitment CRMs. Ranks an agency's entire candidate pool against every open job in seconds (multi-factor scoring, geo-distance, LLM job-title normalization) | 🟢 Live in production |
 | **KC Agent Suite** | Multi-module AI recruiting platform: campaign engine, tender engine, pipeline, CRM sync & automated e-mail infrastructure. Role: project lead, data architecture, development | 🟢 In daily use |
-| **AI Reactivate** | Permission-first outbound voice agent that reactivates dormant candidates and syncs outcomes back to the ATS — n8n orchestration, Twilio telephony, ElevenLabs voice, Vincere as source of truth | 🟢 Live call campaigns |
-| **Gusto AI** | AI food intelligence platform — a self-improving **Taste Graph** that learns individual taste and recommends across cooking, delivery & dining-out. I own the Taste Graph architecture, data infrastructure and AI roadmap | 🟢 Live on iOS & Android |
-| **Grovia Digital** | My company: AI products & AI transformation — plus the platform, funnels and analytics behind it | 🟢 Ongoing |
+| **AI Reactivate** | Permission-first outbound voice agent that reactivates dormant candidates and syncs outcomes back to the ATS. Built on n8n orchestration, Twilio telephony and ElevenLabs voice, with Vincere as source of truth | 🟢 Live call campaigns |
+| **Gusto AI** | AI food intelligence platform built on a self-improving **Taste Graph** that learns individual taste and recommends across cooking, delivery and dining-out. I own the Taste Graph architecture, data infrastructure and AI roadmap | 🟢 Live on iOS & Android |
+| **Grovia Digital** | My company: AI products & AI transformation, plus the platform, funnels and analytics behind it | 🟢 Ongoing |
 
 ---
 
 ### 🧩 Selected engineering work
 
-**🎙️ Compliance-first voice agent — reactivating dormant candidates**
-An outbound AI voice agent built permission-first: value → double opt-in → call. AI disclosure from second one, instant and permanent opt-out, time-stamped consent and a complete audit log.
+**🎙️ Compliance-first voice agent for candidate reactivation**
+An outbound AI voice agent built permission-first: value first, then double opt-in, then the call. AI disclosure from second one, instant and permanent opt-out, time-stamped consent and a complete audit log.
 `n8n` orchestration · `Twilio` telephony · `ElevenLabs` voice · `Vincere` ATS as the leading data source
-→ ~150 compliant calls/day · 10–14 % reactivation rate · **315–470 reactivations per month** at ~€450/month running cost.
+→ ~150 compliant calls/day · 10–14% reactivation rate · **315–470 reactivations per month** at roughly €450/month running cost.
 
-**⚡ grovia-digital.com — a hand-rolled SSG React stack**
-No meta-framework: React 19 + Vite with a custom build-time prerenderer (`renderToString` → static HTML per route → `hydrateRoot`), so every route ships a complete first frame and stays a fully interactive SPA.
-→ **95+/100 mobile, 100/100 desktop** on PageSpeed, all Core Web Vitals green — via inlined critical CSS, self-hosted fonts, deferred GTM (Consent Mode v2), AVIF and per-route code-splitting.
-→ SEO/GEO architecture: separate URLs per language + `hreflang`, per-route metadata, `BlogPosting`/`ProfessionalService` JSON-LD, and an automated hydration check in CI so a mismatch can never silently kill the performance win.
+**⚡ grovia-digital.com: a hand-rolled SSG React stack**
+No meta-framework. React 19 + Vite with a custom build-time prerenderer (`renderToString` to static HTML per route, then `hydrateRoot`), so every route ships a complete first frame and still behaves as a fully interactive SPA.
+→ **95+/100 mobile, 100/100 desktop** on PageSpeed with all Core Web Vitals green, via inlined critical CSS, self-hosted fonts, deferred GTM (Consent Mode v2), AVIF and per-route code-splitting.
+→ SEO/GEO architecture: separate URLs per language with `hreflang`, per-route metadata, `BlogPosting` and `ProfessionalService` JSON-LD, plus an automated hydration check so a mismatch can never silently kill the performance win.
 
 **🗄️ CRM & lifecycle-marketing migration**
-Migrated **45,000 contacts** from CleverReach to KlickTipp with clean B2B/B2C tag segmentation — enabling personalized newsletters and expiry-date-triggered reminders that lift customer lifetime value.
+Migrated **45,000 contacts** from CleverReach to KlickTipp with clean B2B/B2C tag segmentation, enabling personalized newsletters and expiry-date-triggered reminders that lift customer lifetime value.
 
 ---
 
 ### 🛡️ AI governance & compliance
 
-Building AI for EU/UK clients means compliance is a design constraint, not an afterthought. I ship systems that are **GDPR**, **EU AI Act (Art. 50 — clear AI disclosure)**, **UK GDPR** and **PECR** aware by design: explicit opt-in, time-stamped consent, one-click opt-out, full audit logs.
+Building AI for EU/UK clients means compliance is a design constraint, not an afterthought. I ship systems that are **GDPR**, **EU AI Act** (Art. 50, clear AI disclosure), **UK GDPR** and **PECR** aware by design: explicit opt-in, time-stamped consent, one-click opt-out, full audit logs.
 
 > Compliance done right stops being a brake and becomes a selling point.
 
@@ -116,23 +116,31 @@ Building AI for EU/UK clients means compliance is a design constraint, not an af
 
 ### 🌍 Languages
 
-🇩🇪 **German** — native · 🇬🇧 **English** — fluent (business & technical)
+🇩🇪 **German** (native) · 🇬🇧 **English** (fluent, business & technical)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KnAlex83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnAlex83&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top Languages" height="170" />
 
 <img src="https://streak-stats.demolab.com?user=KnAlex83&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 
 </div>
+
+> Most of my work ships inside private production systems and client repos, so the graph below tells only part of the story. The projects above are the real portfolio.
+
+<!--
+  Note: the github-readme-stats.vercel.app cards were removed because the public
+  instance is heavily rate-limited and frequently fails to render (broken images).
+  To bring them back reliably, deploy your own instance (free) and swap the host:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+  A self-hosted instance with a PAT also makes count_private / private langs work.
+-->
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KnAlex83&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 </div>
+
