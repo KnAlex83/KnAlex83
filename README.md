@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-knodel/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexkndl1983@gmail.com)
 [![Grovia Digital](https://img.shields.io/badge/Grovia_Digital-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.grovia-digital.com)
-[![Gusto AI](https://img.shields.io/badge/Gusto_AI-E8763A?style=for-the-badge&logo=appstore&logoColor=white)](https://www.mygusto-ai.com)
+[![Gusto AI](https://img.shields.io/badge/Gusto_AI-E8763A?style=for-the-badge&logo=appstore&logoColor=white)](https://gusto-ai.com/)
 
 </div>
 
