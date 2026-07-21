@@ -36,8 +36,8 @@ My sweet spot: taking an idea from concept to a shipped system — data architec
 |---|---|---|
 | **AI Match** | AI candidate matching on top of recruitment CRMs — ranks an agency's entire candidate pool against every open job in seconds (multi-factor scoring, geo-distance, LLM job-title normalization) | 🟢 Live in production |
 | **KC Agent Suite** | Multi-module AI recruiting platform for a consultancy: campaign engine, tender engine, pipeline, CRM sync & automated e-mail infrastructure. Role: project lead, data architecture, development | 🟢 In daily use |
-| **AI Reactivate** | Outbound voice agent that calls dormant candidates and syncs outcomes back to the CRM — Vapi + ElevenLabs, scheduled & orchestrated with n8n | 🟡 Live testing (real call campaigns) |
-| **Gusto AI** | AI food & nutrition mobile app — daily picks, taste profile ("Flavor Wheel"), macro tracking, gamification | 🟡 In development |
+| **AI Reactivate** | Outbound voice agent that calls dormant candidates and syncs outcomes back to the CRM — Twillio + ElevenLabs, scheduled & orchestrated with n8n | 🟡 Live testing (real call campaigns) |
+| **Gusto AI** | AI food & nutrition mobile app — daily picks, taste profile ("Flavor Wheel"), macro tracking, gamification | 🟢 In App Stores |
 | **GroVia Digital** | My company: AI products & AI transformation for SMEs — plus the landing pages, funnels and analytics behind it | 🟢 Ongoing |
 
 <!-- Tipp: Öffentliche Repos zu diesen Projekten oben im Profil anpinnen (Profil → "Customize your pins"). Private Repos bleiben privat — die Tabelle erzählt die Story trotzdem. -->
