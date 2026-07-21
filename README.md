@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=AI+Systems+Architect+%7C+Founder+%40+GroVia+Digital;Building+AI+products+for+recruitment;Voice+Agents+%E2%80%A2+LLM+Pipelines+%E2%80%A2+Automation;From+idea+to+production+%E2%80%94+not+demos;Based+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
 
 <!-- TODO: USERNAME durch echte Handles ersetzen (oder Badge löschen, wenn kein Account) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/alexander-knodel/))
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexkndl1983@gmail.com)
 [![Website](https://img.shields.io/badge/GroVia_Digital-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.grovia-digital.com)
