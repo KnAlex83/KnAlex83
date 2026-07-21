@@ -22,10 +22,10 @@ Mechanical engineer turned AI systems architect. I build AI products that run in
 My sweet spot: taking an idea from concept to a shipped system — data architecture, LLM pipelines, voice agents, CRM integrations and the frontend on top.
 
 - 🔭 **Currently:** AI Match — AI-powered candidate matching for recruitment agencies (live in production)
-- 📞 **Also shipping:** AI voice agents for candidate reactivation (Vapi + ElevenLabs, n8n-orchestrated)
+- 📞 **Also shipping:** AI voice agents for candidate reactivation (Twillio, ElevenLabs, n8n-orchestrated)
 - 🍜 **Side project:** Gusto AI — an AI food & nutrition mobile app (concept, architecture, UX lead)
 - 💬 **Talk to me about:** LLM apps in production, n8n, Vincere CRM, voice agents, lead-gen automation
-- 📍 Dubai / Ras Al Khaimah · 🇩🇪 DE & 🇬🇧 EN
+- 📍 Dubai · 🇩🇪 DE & 🇬🇧 EN
 - 📫 [alexkndl1983@gmail.com](mailto:alexkndl1983@gmail.com)
 
 ---
