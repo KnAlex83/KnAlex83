@@ -113,7 +113,7 @@ Building AI for EU/UK clients means compliance is a design constraint, not an af
 
 ### 🌍 Languages
 
-🇩🇪 **German** (native) · 🇬🇧 **English** (fluent, business & technical)
+🇩🇪 **German** (native) · 🇬🇧 **English** (fluent, business & technical) · 🇷🇺 **Russian** (native)
 
 ---
 
