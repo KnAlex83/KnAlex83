@@ -19,8 +19,8 @@ Mechanical engineer turned AI systems architect. I build AI products that run **
 
 My sweet spot is taking an idea from concept to a shipped system. Data architecture, LLM pipelines, voice agents, CRM integrations and the frontend on top. I own the whole path: build it, ship it, measure it.
 
-- 🏗️ **Co-Founder & CTO @ Grovia Digital**: AI products & AI transformation for SMEs across DACH & MENA
-- 🍳 **Co-Founder & CTO @ Gusto AI**: the Taste Intelligence Platform, live on iOS & Android
+- 🏗️ **Co-Founder @ Grovia Digital**: AI products & AI transformation for SMEs across DACH & MENA
+- 🍳 **Co-Founder @ Gusto AI**: the Taste Intelligence Platform, live on iOS & Android
 - 🎙️ **Shipping:** compliance-first AI voice agents (n8n · Twilio · ElevenLabs · ATS integration)
 - 💬 **Talk to me about:** LLM apps in production, n8n orchestration, voice agents, CRM/ATS integrations, EU AI Act & GDPR-compliant automation
 - 📍 Dubai 🇦🇪 · working across 🇩🇪 DACH and 🇬🇧 UK/MENA
@@ -34,7 +34,7 @@ My sweet spot is taking an idea from concept to a shipped system. Data architect
 |---|---|---|
 | **AI Match** | AI candidate matching on top of recruitment CRMs. Ranks an agency's entire candidate pool against every open job in seconds (multi-factor scoring, geo-distance, LLM job-title normalization) | 🟢 Live in production |
 | **KC Agent Suite** | Multi-module AI recruiting platform: campaign engine, tender engine, pipeline, CRM sync & automated e-mail infrastructure. Role: project lead, data architecture, development | 🟢 In daily use |
-| **AI Reactivate** | Permission-first outbound voice agent that reactivates dormant candidates and syncs outcomes back to the ATS. Built on n8n orchestration, Twilio telephony and ElevenLabs voice, with Vincere as source of truth | 🟢 Live call campaigns |
+| **AI Reactivate** | Permission-first outbound voice agent that reactivates dormant candidates and syncs outcomes back to the ATS. Built on n8n orchestration, Twilio telephony and ElevenLabs voice, with ATS System as source of truth | 🟢 Live call campaigns |
 | **Gusto AI** | AI food intelligence platform built on a self-improving **Taste Graph** that learns individual taste and recommends across cooking, delivery and dining-out. I own the Taste Graph architecture, data infrastructure and AI roadmap | 🟢 Live on iOS & Android |
 | **Grovia Digital** | My company: AI products & AI transformation, plus the platform, funnels and analytics behind it | 🟢 Ongoing |
 
@@ -44,16 +44,13 @@ My sweet spot is taking an idea from concept to a shipped system. Data architect
 
 **🎙️ Compliance-first voice agent for candidate reactivation**
 An outbound AI voice agent built permission-first: value first, then double opt-in, then the call. AI disclosure from second one, instant and permanent opt-out, time-stamped consent and a complete audit log.
-`n8n` orchestration · `Twilio` telephony · `ElevenLabs` voice · `Vincere` ATS as the leading data source
-→ ~150 compliant calls/day · 10–14% reactivation rate · **315–470 reactivations per month** at roughly €450/month running cost.
+`n8n` orchestration · `Twilio` telephony · `ElevenLabs` voice · `any other` ATS as the leading data source
+→ ~150-300 compliant calls/day · 10–14% reactivation rate · **315–950 reactivations per month**
 
 **⚡ grovia-digital.com: a hand-rolled SSG React stack**
 No meta-framework. React 19 + Vite with a custom build-time prerenderer (`renderToString` to static HTML per route, then `hydrateRoot`), so every route ships a complete first frame and still behaves as a fully interactive SPA.
 → **95+/100 mobile, 100/100 desktop** on PageSpeed with all Core Web Vitals green, via inlined critical CSS, self-hosted fonts, deferred GTM (Consent Mode v2), AVIF and per-route code-splitting.
 → SEO/GEO architecture: separate URLs per language with `hreflang`, per-route metadata, `BlogPosting` and `ProfessionalService` JSON-LD, plus an automated hydration check so a mismatch can never silently kill the performance win.
-
-**🗄️ CRM & lifecycle-marketing migration**
-Migrated **45,000 contacts** from CleverReach to KlickTipp with clean B2B/B2C tag segmentation, enabling personalized newsletters and expiry-date-triggered reminders that lift customer lifetime value.
 
 ---
 
