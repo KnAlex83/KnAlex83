@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=AI+Systems+Architect+%7C+Co-Founder+%26+CTO;Grovia+Digital+%E2%80%A2+Gusto+AI;Voice+Agents+%E2%80%A2+LLM+Pipelines+%E2%80%A2+Automation;From+idea+to+production+%E2%80%94+not+demos;Based+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=AI+Systems+Architect+%7C+Co-Founder+%26+CTO;Grovia+Digital+%E2%80%A2+Gusto+AI;Voice+Agents+%E2%80%A2+LLM+Pipelines+%E2%80%A2+Automations;From+idea+to+production+%E2%80%94+not+demos;Based+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-knodel/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexkndl1983@gmail.com)
