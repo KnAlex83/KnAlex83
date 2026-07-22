@@ -121,7 +121,7 @@ Building AI for EU/UK clients means compliance is a design constraint, not an af
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KnAlex83&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+<img src="./profile/streak.svg" alt="GitHub Streak" height="170" />
 
 </div>
 
