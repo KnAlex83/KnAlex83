@@ -24,7 +24,7 @@ My sweet spot is taking an idea from concept to a shipped system. Data architect
 - 🎙️ **Shipping:** compliance-first AI voice agents (n8n · Twilio · ElevenLabs · ATS integration)
 - 💬 **Talk to me about:** LLM apps in production, n8n orchestration, voice agents, CRM/ATS integrations, EU AI Act & GDPR-compliant automation
 - 📍 Dubai 🇦🇪 · working across 🇩🇪 DACH and 🇬🇧 UK/MENA
-- 📫 [alexkndl1983@gmail.com](mailto:alexkndl1983@gmail.com)
+- 📫 [alexkndl1983@gmail.com](mailto:info@grovia-digital.com)
 
 ---
 
