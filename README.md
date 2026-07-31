@@ -21,8 +21,8 @@ My sweet spot is taking an idea from concept to a shipped system. Data architect
 
 - 🏗️ **Co-Founder @ Grovia Digital**: AI products & AI transformation for SMEs across DACH & MENA
 - 🍳 **Co-Founder @ Gusto AI**: the Taste Intelligence Platform, live on iOS & Android
-- 🎙️ **Shipping:** compliance-first AI voice agents (n8n · Twilio · ElevenLabs · ATS integration)
-- 💬 **Talk to me about:** LLM apps in production, n8n orchestration, voice agents, CRM/ATS integrations, EU AI Act & GDPR-compliant automation
+- 🎙️ **Shipping:** compliance-first AI Systems worldwide
+- 💬 **Talk to me about:** LLM apps in production, Agentic Ai orchestration, voice agents, CRM/ATS integrations, EU AI Act & GDPR-compliant automation and many many more...
 - 📍 Dubai 🇦🇪 · working across 🇩🇪 DACH and 🇬🇧 UK/MENA
 - 📫 [info@grovia-digital.com](mailto:info@grovia-digital.com)
 
