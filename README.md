@@ -125,7 +125,7 @@ Building AI for EU/UK clients means compliance is a design constraint, not an af
 
 </div>
 
-> Most of my work ships inside private production systems and client repos, so the graph below tells only part of the story. The projects above are the real portfolio.
+> Most of my work ships inside private production systems and client repos, so the graph below tells only part of the story.
 
 <!--
   Note: the github-readme-stats.vercel.app cards were removed because the public
