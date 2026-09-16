@@ -1,28 +1,33 @@
-name: Generate contribution snake
+name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # twice a day
-  workflow_dispatch:          # run manually from the Actions tab
-
-permissions:
-  contents: write
+    - cron: "0 2,14 * * *"
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#E89A2E&color_dots=#ebedf0,#b3ecf7,#66d6ee,#1fb8d9,#0088a8
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FFB547&color_dots=#161b22,#0e3a4a,#0a6c85,#05a3c2,#00D9FF
+    permissions:
+      contents: write
 
-      - uses: crazy-max/ghaction-github-pages@v5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
