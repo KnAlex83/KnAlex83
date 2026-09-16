@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="assets/metrics.svg" alt="5 systems live in production · 315–950 reactivations per month · 10–14% reactivation rate · 95+ mobile PageSpeed" width="100%">
+<img src="assets/metrics.svg" alt="5 systems live in production · 515–950 reactivations per month · 10–14% reactivation rate · 95+ mobile PageSpeed" width="100%">
 
 ### 🎯 About me
 
@@ -60,7 +60,7 @@ flowchart LR
 ```
 
 `n8n` orchestration · `Twilio` telephony · `ElevenLabs` voice · any ATS as the leading data source
-→ ~150–300 compliant calls/day · 10–14% reactivation rate · **315–950 reactivations per month**
+→ ~150–300 compliant calls/day · 10–14% reactivation rate · **515–950 reactivations per month**
 
 </details>
 
