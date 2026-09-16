@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="5 systems live in production, 315 to 950 reactivations per month, 10 to 14 percent reactivation rate, 95+ mobile PageSpeed score">
+<style>.c{opacity:0;animation:in .6s ease-out forwards}@keyframes in{to{opacity:1}}@media (prefers-reduced-motion: reduce){ *{animation:none;opacity:1 !important} }</style>
+<rect x=".5" y=".5" width="999" height="149" rx="16" fill="#0B1A2E" stroke="#00D9FF" stroke-opacity=".18"/>
+<g class="c" style="animation-delay:0.00s">
+  <text x="125" y="78" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1" fill="#EAF4FB">5</text>
+  <text x="125" y="108" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="15" fill="#9FB3C8">systems live in production</text>
+</g>
+<g class="c" style="animation-delay:0.15s">
+  <text x="375" y="78" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1" fill="#EAF4FB">315–950</text>
+  <text x="375" y="108" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="15" fill="#9FB3C8">reactivations per month</text>
+</g>
+<line x1="250" y1="36" x2="250" y2="114" stroke="#9FB3C8" stroke-opacity=".2"/>
+<g class="c" style="animation-delay:0.30s">
+  <text x="625" y="78" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1" fill="#EAF4FB">10–14%</text>
+  <text x="625" y="108" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="15" fill="#9FB3C8">voice agent reactivation rate</text>
+</g>
+<line x1="500" y1="36" x2="500" y2="114" stroke="#9FB3C8" stroke-opacity=".2"/>
+<g class="c" style="animation-delay:0.45s">
+  <text x="875" y="78" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1" fill="#EAF4FB">95+</text>
+  <text x="875" y="108" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="15" fill="#9FB3C8">mobile PageSpeed score</text>
+</g>
+<line x1="750" y1="36" x2="750" y2="114" stroke="#9FB3C8" stroke-opacity=".2"/>
+</svg>
