@@ -1,17 +1,19 @@
-<!-- GitHub profile README — belongs in the repo KnAlex83/KnAlex83 (file: README.md) -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=AI+Systems+Architect+%7C+Co-Founder+%26+CTO;Grovia+Digital+%E2%80%A2+Gusto+AI;Voice+Agents+%E2%80%A2+LLM+Pipelines+%E2%80%A2+Automations;From+idea+to+production+%E2%80%94+not+demos;Based+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
+<img src="assets/header.svg" alt="KnAlex83. I build AI systems that run in production." width="100%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-knodel/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexkndl1983@gmail.com)
-[![Grovia Digital](https://img.shields.io/badge/Grovia_Digital-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.grovia-digital.com)
-[![Gusto AI](https://img.shields.io/badge/Gusto_AI-E8763A?style=for-the-badge&logo=appstore&logoColor=white)](https://gusto-ai.com/)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=AI+Systems+Architect+%7C+Co-Founder+%26+CTO;Grovia+Digital+%E2%80%A2+Gusto+AI;Voice+Agents+%E2%80%A2+LLM+Pipelines+%E2%80%A2+Automations;From+idea+to+production+%E2%80%94+not+demos;Based+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA" alt="Typing SVG"></a>
+
+<a href="https://www.linkedin.com/in/alexander-knodel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:info@grovia-digital.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=0B1A2E" alt="Email"></a>
+<a href="https://www.grovia-digital.com"><img src="https://img.shields.io/badge/Grovia_Digital-12284A?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Grovia Digital"></a>
+<a href="https://gusto-ai.com/"><img src="https://img.shields.io/badge/Gusto_AI-FFB547?style=for-the-badge&logo=appstore&logoColor=0B1A2E" alt="Gusto AI"></a>
 
 </div>
 
----
+<br>
+
+<img src="assets/metrics.svg" alt="5 systems live in production · 315–950 reactivations per month · 10–14% reactivation rate · 95+ mobile PageSpeed" width="100%">
 
 ### 🎯 About me
 
@@ -21,38 +23,57 @@ My sweet spot is taking an idea from concept to a shipped system. Data architect
 
 - 🏗️ **Co-Founder @ Grovia Digital**: AI products & AI transformation for SMEs across DACH & MENA
 - 🍳 **Co-Founder @ Gusto AI**: the Taste Intelligence Platform, live on iOS & Android
-- 🎙️ **Shipping:** compliance-first AI Systems worldwide
-- 💬 **Talk to me about:** LLM apps in production, Agentic Ai orchestration, voice agents, CRM/ATS integrations, EU AI Act & GDPR-compliant automation and many many more...
+- 🎙️ **Shipping:** compliance-first AI systems worldwide
+- 💬 **Talk to me about:** LLM apps in production, agentic AI orchestration, voice agents, CRM/ATS integrations, EU AI Act & GDPR-compliant automation
 - 📍 Dubai 🇦🇪 · working across 🇩🇪 DACH and 🇬🇧 UK/MENA
-- 📫 [info@grovia-digital.com](mailto:info@grovia-digital.com)
-
----
+- 🌍 🇩🇪 German (native) · 🇷🇺 Russian (native) · 🇬🇧 English (fluent, business & technical)
 
 ### 🚀 What I'm building
 
 | Project | What it is | Status |
-|---|---|---|
+| --- | --- | --- |
 | **AI Match** | AI candidate matching on top of recruitment CRMs. Ranks an agency's entire candidate pool against every open job in seconds (multi-factor scoring, geo-distance, LLM job-title normalization) | 🟢 Live in production |
 | **KC Agent Suite** | Multi-module AI recruiting platform: campaign engine, tender engine, pipeline, CRM sync & automated e-mail infrastructure. Role: project lead, data architecture, development | 🟢 In daily use |
-| **AI Reactivate** | Permission-first outbound voice agent that reactivates dormant candidates and syncs outcomes back to the ATS. Built on n8n orchestration, Twilio telephony and ElevenLabs voice, with ATS System as source of truth | 🟢 Live call campaigns |
+| **AI Reactivate** | Permission-first outbound voice agent that reactivates dormant candidates and syncs outcomes back to the ATS | 🟢 Live call campaigns |
 | **Gusto AI** | AI food intelligence platform built on a self-improving **Taste Graph** that learns individual taste and recommends across cooking, delivery and dining-out. I own the Taste Graph architecture, data infrastructure and AI roadmap | 🟢 Live on iOS & Android |
 | **Grovia Digital** | My company: AI products & AI transformation, plus the platform, funnels and analytics behind it | 🟢 Ongoing |
 
----
-
 ### 🧩 Selected engineering work
 
-**🎙️ Compliance-first voice agent for candidate reactivation**
-An outbound AI voice agent built permission-first: value first, then double opt-in, then the call. AI disclosure from second one, instant and permanent opt-out, time-stamped consent and a complete audit log.
-`n8n` orchestration · `Twilio` telephony · `ElevenLabs` voice · `any other` ATS as the leading data source
-→ ~150-300 compliant calls/day · 10–14% reactivation rate · **315–950 reactivations per month**
+<details open>
+<summary><b>🎙️ Compliance-first voice agent for candidate reactivation</b> — 315–950 reactivations per month</summary>
+<br>
 
-**⚡ grovia-digital.com: a hand-rolled SSG React stack**
+An outbound AI voice agent built permission-first: value first, then double opt-in, then the call. AI disclosure from second one, instant and permanent opt-out, time-stamped consent and a complete audit log.
+
+```mermaid
+flowchart LR
+    A[Dormant candidate<br/>in ATS] --> B[Value-first<br/>message]
+    B --> C{Double<br/>opt-in?}
+    C -- no --> X[No contact]
+    C -- yes --> D[n8n orchestration]
+    D --> E[Twilio call<br/>ElevenLabs voice<br/>AI disclosure]
+    E --> F[Outcome synced<br/>back to ATS]
+    E -. opt-out anytime .-> X
+    D --> L[(Consent &<br/>audit log)]
+    E --> L
+```
+
+`n8n` orchestration · `Twilio` telephony · `ElevenLabs` voice · any ATS as the leading data source
+→ ~150–300 compliant calls/day · 10–14% reactivation rate · **315–950 reactivations per month**
+
+</details>
+
+<details>
+<summary><b>⚡ grovia-digital.com: a hand-rolled SSG React stack</b> — 95+ mobile / 100 desktop PageSpeed</summary>
+<br>
+
 No meta-framework. React 19 + Vite with a custom build-time prerenderer (`renderToString` to static HTML per route, then `hydrateRoot`), so every route ships a complete first frame and still behaves as a fully interactive SPA.
+
 → **95+/100 mobile, 100/100 desktop** on PageSpeed with all Core Web Vitals green, via inlined critical CSS, self-hosted fonts, deferred GTM (Consent Mode v2), AVIF and per-route code-splitting.
 → SEO/GEO architecture: separate URLs per language with `hreflang`, per-route metadata, `BlogPosting` and `ProfessionalService` JSON-LD, plus an automated hydration check so a mismatch can never silently kill the performance win.
 
----
+</details>
 
 ### 🛡️ AI governance & compliance
 
@@ -60,84 +81,55 @@ Building AI for EU/UK clients means compliance is a design constraint, not an af
 
 > Compliance done right stops being a brake and becomes a selling point.
 
----
+### 🛠️ Tech stack
 
-### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,postgres,react,nextjs,vite,tailwind,netlify,git,githubactions,vscode&theme=dark&perline=13" alt="TypeScript, JavaScript, Node.js, Python, PostgreSQL, React, Next.js, Vite, Tailwind, Netlify, Git, GitHub Actions, VS Code">
+</p>
 
-**AI & Voice**
+**AI, voice & automation**<br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs">
+<img src="https://img.shields.io/badge/Webhooks-2B303A?style=flat-square&logo=webhooks&logoColor=white" alt="Webhooks">
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white" alt="Cursor">
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-
-**Languages & Runtime**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Automation & Integration**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-2B303A?style=flat-square&logo=webhooks&logoColor=white)
-
-**Frontend & Web**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
-**CRM, Growth & Analytics**
-
-![Vincere](https://img.shields.io/badge/Vincere_CRM-1E293B?style=flat-square&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![KlickTipp](https://img.shields.io/badge/KlickTipp-00A4E4?style=flat-square&logoColor=white)
-![Apollo.io](https://img.shields.io/badge/Apollo.io-0E7CA0?style=flat-square&logoColor=white)
-![Instantly](https://img.shields.io/badge/Instantly.ai-1A1A1A?style=flat-square&logo=maildotru&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4_+_Consent_Mode_v2-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
-
----
-
-### 🌍 Languages
-
-🇩🇪 **German** (native) · 🇬🇧 **English** (fluent, business & technical) · 🇷🇺 **Russian** (native)
-
----
+**CRM, growth & analytics**<br>
+<img src="https://img.shields.io/badge/Vincere_CRM-1E293B?style=flat-square&logoColor=white" alt="Vincere CRM">
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot">
+<img src="https://img.shields.io/badge/KlickTipp-00A4E4?style=flat-square&logoColor=white" alt="KlickTipp">
+<img src="https://img.shields.io/badge/Apollo.io-0E7CA0?style=flat-square&logoColor=white" alt="Apollo.io">
+<img src="https://img.shields.io/badge/Instantly.ai-1A1A1A?style=flat-square&logo=maildotru&logoColor=white" alt="Instantly.ai">
+<img src="https://img.shields.io/badge/GA4_+_Consent_Mode_v2-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4 + Consent Mode v2">
 
 ### 📊 GitHub activity
 
+> Most of my work ships inside private production systems and client repos, so these graphs tell only part of the story.
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%">
+</p>
+
+<p align="center">
+  <img src="profile/streak.svg" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KnAlex83/KnAlex83/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KnAlex83/KnAlex83/output/github-snake.svg">
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/KnAlex83/KnAlex83/output/github-snake.svg">
+  </picture>
+</p>
+
 <div align="center">
 
-<img src="./profile/streak.svg" alt="GitHub Streak" height="170" />
+<img src="assets/footer.svg" alt="Gratitude is my attitude. Thanks for stopping by." width="100%">
+
+<img src="https://komarev.com/ghpvc/?username=KnAlex83&label=Profile+views&color=00D9FF&style=flat-square" alt="Profile views">
 
 </div>
-
-> Most of my work ships inside private production systems and client repos, so the graph below tells only part of the story.
-
-<!--
-  Note: the github-readme-stats.vercel.app cards were removed because the public
-  instance is heavily rate-limited and frequently fails to render (broken images).
-  To bring them back reliably, deploy your own instance (free) and swap the host:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-  A self-hosted instance with a PAT also makes count_private / private langs work.
--->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KnAlex83&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views" />
-</div>
-
