@@ -6,7 +6,7 @@
   <text x="125" y="108" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="15" fill="#9FB3C8">systems live in production</text>
 </g>
 <g class="c" style="animation-delay:0.15s">
-  <text x="375" y="78" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1" fill="#EAF4FB">315–950</text>
+  <text x="375" y="78" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1" fill="#EAF4FB">515–950</text>
   <text x="375" y="108" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="15" fill="#9FB3C8">reactivations per month</text>
 </g>
 <line x1="250" y1="36" x2="250" y2="114" stroke="#9FB3C8" stroke-opacity=".2"/>
