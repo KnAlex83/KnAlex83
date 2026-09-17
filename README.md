@@ -41,7 +41,7 @@ My sweet spot is taking an idea from concept to a shipped system. Data architect
 ### 🧩 Selected engineering work
 
 <details open>
-<summary><b>🎙️ Compliance-first voice agent for candidate reactivation</b> — 315–950 reactivations per month</summary>
+<summary><b>🎙️ Compliance-first voice agent for candidate reactivation</b> — 515–950 reactivations per month</summary>
 <br>
 
 An outbound AI voice agent built permission-first: value first, then double opt-in, then the call. AI disclosure from second one, instant and permanent opt-out, time-stamped consent and a complete audit log.
