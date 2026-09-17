@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="KnAlex83. I build AI systems that run in production." width="100%">
+<img src="assets/header.svg" alt="KnAlex83. I build AI systems that run in production. 5 systems live · 515–950 reactivations per month · 10–14% reactivation rate · 95+ mobile PageSpeed" width="100%">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=AI+Systems+Architect+%7C+Co-Founder+%26+CTO;Grovia+Digital+%E2%80%A2+Gusto+AI;Voice+Agents+%E2%80%A2+LLM+Pipelines+%E2%80%A2+Automations;From+idea+to+production+%E2%80%94+not+demos;Based+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA" alt="Typing SVG"></a>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="assets/metrics.svg" alt="5 systems live in production · 515–950 reactivations per month · 10–14% reactivation rate · 95+ mobile PageSpeed" width="100%">
+<img src="assets/campaign-engine.svg" alt="Campaign Engine: four job sources feed a market scan, results are scored, a recruiter decides, delivery is verified" width="100%">
 
 ### 🎯 About me
 
@@ -33,7 +33,7 @@ My sweet spot is taking an idea from concept to a shipped system. Data architect
 | Project | What it is | Status |
 | --- | --- | --- |
 | **AI Match** | AI candidate matching on top of recruitment CRMs. Ranks an agency's entire candidate pool against every open job in seconds (multi-factor scoring, geo-distance, LLM job-title normalization) | 🟢 Live in production |
-| **KC Agent Suite** | Multi-module AI recruiting platform: campaign engine, tender engine, pipeline, CRM sync & automated e-mail infrastructure. Role: project lead, data architecture, development | 🟢 In daily use |
+| **AI Recruiting Suite** | Multi-module AI recruiting platform: campaign engine, tender engine, pipeline, CRM sync & automated e-mail infrastructure. Role: project lead, data architecture, development | 🟢 In daily use · 1,000+ matches in month one |
 | **AI Reactivate** | Permission-first outbound voice agent that reactivates dormant candidates and syncs outcomes back to the ATS | 🟢 Live call campaigns |
 | **Gusto AI** | AI food intelligence platform built on a self-improving **Taste Graph** that learns individual taste and recommends across cooking, delivery and dining-out. I own the Taste Graph architecture, data infrastructure and AI roadmap | 🟢 Live on iOS & Android |
 | **Grovia Digital** | My company: AI products & AI transformation, plus the platform, funnels and analytics behind it | 🟢 Ongoing |
@@ -41,6 +41,21 @@ My sweet spot is taking an idea from concept to a shipped system. Data architect
 ### 🧩 Selected engineering work
 
 <details open>
+<summary><b>🎯 Campaign Engine: reverse matching for recruiters</b> — 1,000+ jobs matched in the first month</summary>
+<br>
+
+Most recruiting tools find candidates for a job. The Campaign Engine flips it and finds jobs for a candidate: every night it scans the job market and scores every new ad against every active candidate profile. By morning, each recruiter has a ranked shortlist.
+
+- **Query expansion that speaks the market's language.** Profiles say "Mgr. Procurement", German job ads say "Einkäufer": 0 hits vs. 395. Titles are mapped to German occupations via a taxonomy, an LLM fallback and co-occurrence learning from the ads themselves.
+- **Occupation keys at ingest.** "Sachbearbeiter Rechnungswesen (m/w/d) in Teilzeit" is recognised as an accounting role even when no word matches the profile.
+- **Fetch once, score locally.** Four sources feed one market scan three times a day. Ads are cached for 45 days, so adding a recruiter costs nothing extra.
+- **Guardrails instead of silent failure.** A missing location triggers a warning rather than a quietly nationwide list, and an exclusion term that would cancel the profile's own search terms is rejected, checked in both directions.
+- **Human in the loop, by design.** Nothing is sent without a recruiter's explicit choice. Mails go out from the recruiter's own mailbox inside a Mon–Sat send window: 10 mailboxes, 30 mails each per day, and every push is logged in the CRM automatically.
+- **Verified delivery, deliverability first.** Every send is tracked from queue to sent to opened, without tracking pixels or rewritten links. "Profile opened" is measured by a click on our own page, and hits in the first minute are flagged as corporate link scanners.
+
+</details>
+
+<details>
 <summary><b>🎙️ Compliance-first voice agent for candidate reactivation</b> — 515–950 reactivations per month</summary>
 <br>
 
